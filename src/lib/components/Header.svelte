@@ -3,15 +3,11 @@
 
   const headerTopItems = [
     {label: "관련규정", link: "/"},
-    {label: "FAQ", link: "/"},
-    {label: "개인정보처리방침", link: "/"},
-    {label: "로그인", link: "/"},
   ]
 
   const headerBottomItems = [
     {label: "대출모집인 제도", link: "/info"},
     {label: "대출모집인 조회", link: "/search/userSearchPage"},
-    {label: "등록수수료 결제내역 조회", link: "/paySearch/payResultSearch"},
     {label: "공지사항", link: "/board/noticePage"},
   ]
   console.log($page);

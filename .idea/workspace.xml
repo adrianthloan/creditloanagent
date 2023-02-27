@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54f95238-fde4-41bc-b058-a6edee29ed19" name="Changes" comment="make footer">
-      <change afterPath="$PROJECT_DIR$/src/routes/info/+page.svelte" afterDir="false" />
+    <list default="true" id="54f95238-fde4-41bc-b058-a6edee29ed19" name="Changes" comment="fix img overflow">
+      <change afterPath="$PROJECT_DIR$/src/routes/paySearch/payResultSearch/+page.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/components/Header.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/components/Header.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677226951137</updated>
       <workItem from="1677226952484" duration="22000" />
-      <workItem from="1677227371986" duration="20625000" />
+      <workItem from="1677227371986" duration="23224000" />
     </task>
     <task id="LOCAL-00001" summary="add tailwind">
       <created>1677228791502</created>
@@ -108,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677423443045</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="대출모집인 제도, 대출모집인 조회 페이지 추가">
+      <created>1677430139502</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677430139502</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix img overflow">
+      <created>1677466909373</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677466909373</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +142,8 @@
     <MESSAGE value="add tailwind" />
     <MESSAGE value="header and page home" />
     <MESSAGE value="make footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="make footer" />
+    <MESSAGE value="대출모집인 제도, 대출모집인 조회 페이지 추가" />
+    <MESSAGE value="fix img overflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix img overflow" />
   </component>
 </project>
