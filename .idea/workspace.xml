@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54f95238-fde4-41bc-b058-a6edee29ed19" name="Changes" comment="fix img overflow">
-      <change afterPath="$PROJECT_DIR$/src/routes/paySearch/payResultSearch/+page.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="54f95238-fde4-41bc-b058-a6edee29ed19" name="Changes" comment="필요없는 기능 제거" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677226951137</updated>
       <workItem from="1677226952484" duration="22000" />
-      <workItem from="1677227371986" duration="23224000" />
+      <workItem from="1677227371986" duration="23986000" />
     </task>
     <task id="LOCAL-00001" summary="add tailwind">
       <created>1677228791502</created>
@@ -121,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677466909373</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="필요없는 기능 제거">
+      <created>1677478724586</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677478724586</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +148,7 @@
     <MESSAGE value="make footer" />
     <MESSAGE value="대출모집인 제도, 대출모집인 조회 페이지 추가" />
     <MESSAGE value="fix img overflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix img overflow" />
+    <MESSAGE value="필요없는 기능 제거" />
+    <option name="LAST_COMMIT_MESSAGE" value="필요없는 기능 제거" />
   </component>
 </project>

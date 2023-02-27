@@ -1,28 +1,14 @@
 <script>
   import {page} from '$app/stores'
 
-  const headerTopItems = [
-    {label: "관련규정", link: "/"},
-  ]
-
   const headerBottomItems = [
     {label: "대출모집인 제도", link: "/info"},
     {label: "대출모집인 조회", link: "/search/userSearchPage"},
     {label: "공지사항", link: "/board/noticePage"},
   ]
-  console.log($page);
 </script>
 
 <div class="flex flex-col w-full items-center divide-y border-b" id="header">
-    <div class="header_top flex justify-center w-full h-[40px]">
-        <ul class="flex justify-end items-center w-[1140px] h-full space-x-5">
-            {#each headerTopItems as item}
-                <li class="text-sm text-[#444]">
-                    <a href="{item.link}">{item.label}</a>
-                </li>
-            {/each}
-        </ul>
-    </div>
     <div class="header_bottom w-full h-[70px] flex justify-center">
         <div class="flex w-[1140px] h-full items-center justify-between">
             <div>
