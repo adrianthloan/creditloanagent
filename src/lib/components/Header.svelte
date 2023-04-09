@@ -4,7 +4,6 @@
   const headerBottomItems = [
     {label: "대출모집인 제도", link: "/info"},
     {label: "대출모집인 조회", link: "/search/userSearchPage"},
-    {label: "공지사항", link: "/board/noticePage"},
   ]
 </script>
 

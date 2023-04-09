@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54f95238-fde4-41bc-b058-a6edee29ed19" name="Changes" comment="필요없는 기능 제거" />
+    <list default="true" id="54f95238-fde4-41bc-b058-a6edee29ed19" name="Changes" comment="필요없는 기능 제거">
+      <change afterPath="$PROJECT_DIR$/src/routes/api/search/+server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/search/userSearchResult/+page.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/search/userSearchResult/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userData.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/components/Search.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/components/Search.svelte" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,17 +47,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "code.cleanup.on.save": "true",
+    "dart.analysis.tool.window.visible": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/user/work/adr/creditloanagent/node_modules/prettier",
     "rearrange.code.on.save": "true",
     "settings.editor.selected.configurable": "actions.on.save",
+    "ts.external.directory.path": "/Users/user/work/adr/creditloanagent/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/routes/search/userSearchResult" />
+      <recent name="$PROJECT_DIR$/src/routes/search/userSearchResult/[id]" />
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/src/libs/components" />
     </key>
@@ -81,7 +92,9 @@
       <option name="presentableId" value="Default" />
       <updated>1677226951137</updated>
       <workItem from="1677226952484" duration="22000" />
-      <workItem from="1677227371986" duration="23986000" />
+      <workItem from="1677227371986" duration="24849000" />
+      <workItem from="1677486984341" duration="6000" />
+      <workItem from="1681041585636" duration="6863000" />
     </task>
     <task id="LOCAL-00001" summary="add tailwind">
       <created>1677228791502</created>
@@ -125,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677478724586</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="필요없는 기능 제거">
+      <created>1677478951905</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677478951905</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

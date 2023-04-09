@@ -1,6 +1,6 @@
 <div class="flex flex-col w-full justify-center items-center">
     <div class="w-[1140px] flex items-center justify-center text-3xl font-bold p-20">
-        대출모집인 제도
+        대출 모집인 제도
     </div>
     <div class="flex w-full bg-[#ebf1f8] justify-center items-center">
         <div class="flex w-[1140px] justify-start items-center py-20">
